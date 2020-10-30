@@ -1,0 +1,67 @@
+/*CSS Document */ /*no nekecej*/
+
+* {
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: whitesmoke;
+}
+
+.middle {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    vertical-align: top;
+}
+
+p {
+    font-size: 20px;
+    color: #006699;
+}
+
+h1 {
+    text-align: left;
+    color: #006699;
+    font-size: 40;
+}
+
+form {
+    font-size: 20;
+    color: #006699;
+    background-color: white;
+}
+
+link {
+    color: #006699;
+    text-decoration: none;
+}
+
+button {
+    background-color: #006699;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    display: inline;
+    font-size: 19px;
+}
+
+div {
+    background-color: whitesmoke;
+}
+
+label {
+    font-size: 20px;
+    display: inline;
+}
+
+input {
+    width: 40px;
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+
+
